@@ -1,0 +1,2 @@
+# Extensions
+BusinessCraft application extensions
